@@ -1,0 +1,8 @@
+openapi: 3.0.3
+info:
+  title: Enterprise Authentication API
+  version: 1.0.0
+  description: Advanced enterprise authentication system with JWT, MFA, SSO, RBAC
+    and security monitoring.
+paths: {}
+components: {}
